@@ -1,0 +1,145 @@
+<snippet>
+	<content><![CDATA[
+# Atlas Logging:
+#	 =>	Atlas.Log.info(arguemnts...)
+#	 =>	Atlas.Log.debug(arguments...)
+#	 =>	Atlas.Log.error(arguments...)
+
+# Atlas Launch Station Plugin:
+#	 =>	Atlas.launch_plugin(bundle, plugin)
+#	 =>	Atlas.launch_plugin(bundle, plugin, name)
+#	 =>	Atlas.launch_plugin(bundle, plugin, name, setup_parameters)
+
+# Atlas Teardown Station Plugin:
+#	 =>	Atlas.teardown_plugin(name)
+#	 =>	Atlas.teardown_plugin(name, teardown_parameters)
+
+#
+# App Setup:
+# * Called when app first connects to the atlas core and before the station is started
+# * Called when app first connects to the atlas core and before the station is started
+#
+
+app_setup(app)
+{
+  app.settings = {
+    "station-name" : "Atlas Station Example",
+    "force-fullscreen" : :FALSE:,
+    "start-button" : {
+		# "groups" : [{
+		# "identifier" : "group1",
+  #   	     "units" : [
+  #       	 {
+  #         		"identifier" : "Unit 1"
+  #       	 },
+  #       	 {
+  #         		"identifier" : "Unit 2"
+  #       	 }
+  #     	     ]
+		# }]
+    },
+	"custom-test-modes" : [
+	{
+		"name" : "Test Plan Setup",
+		"base-test-mode" : "LineBringup"
+	}
+	]
+  }
+}
+
+#
+# Station Setup:
+# * Called when core is starting your station for the first time (app start)
+#
+
+station_setup()
+{
+	# Log : Call takes any types and is variable argument
+	# Atlas.Log.info(arguemnts...)
+	# Atlas.Log.debug(arguments...)
+	# Atlas.Log.error(arguments...)
+	Atlas.Log.info("Setting up station")
+
+	# Define a dictionary to configure station level Bar
+	#
+
+	# Plugin Launch : Station plugin are visible to all units.
+	# Atlas.launch_plugin(bundle, plugin)
+	# Atlas.launch_plugin(bundle, plugin, name)
+	# Atlas.launch_plugin(bundle, plugin, name, setup_parameters)
+	#Atlas.launch_plugin("FooBar", "Bar", "Bar", barConfig)
+}
+
+#
+# Station Teardown:
+# * Called when core is tearing down your station (app quit)
+#
+
+station_teardown()
+{
+	Atlas.Log.info("Station teardown")
+
+	# Plugin Teardown :
+	# Atlas.teardown_plugin(name)
+	# Atlas.teardown_plugin(name, teardown_parameters)
+	Atlas.teardown_plugin("Bar")
+}
+
+#
+# Unit Setup:
+# * Called only when core receives new unit.
+#
+
+unit_setup(unit)
+{
+	Atlas.Log.info("Started", unit)
+
+	# if (unit.test_mode == Atlas.TestModes.Production) # :TRUE: for "DOE 1" and "DOE 2"
+	# {
+	# 	Atlas.Log.info("Started Production", unit)
+	# 	Atlas.set_sequence(unit, "AtlasStationExampleCSVSequencer.rush")
+	# }
+
+	# if (unit.test_mode == Atlas.TestModes.LineBringup)
+	# {
+	# 	Atlas.Log.info("Started LineBringup", unit)
+	# 	Atlas.set_sequence(unit, "AtlasStationExampleCSVSequencerTestPlanSetup.rush")
+	# }
+
+
+	# Sequence Selection : Select the sequence to run the unit, can branch and select a GRR unit based on unit context info
+
+	# Plugin Launch : launches plugin visible only to this unit
+	# Atlas.launch_plugin(unit, bundle, plugin)
+	# Atlas.launch_plugin(unit, bundle, plugin, name)
+	# Atlas.launch_plugin(unit, bundle, plugin, name, setup_parameters)
+	
+	#Atlas.launch_plugin(unit, "FooBar", "Bar1", "BarSecret", barConfig)
+}
+
+#
+# Unit Setup:
+# * <Fill In>
+#
+
+unit_teardown(unit)
+{
+	Atlas.Log.info(unit, "Finished")
+}
+
+group_setup(group)
+{
+	Atlas.Log.info("Setting up Group")
+	
+}
+
+group_teardown(group)
+{
+	Atlas.Log.info("Group teardown")
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Station</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
