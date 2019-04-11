@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 main () {		
-
+    println("rush")$1
 }
 
 
@@ -12,5 +12,6 @@ finish_with_error(e) {
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>rush</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.python</scope>
+	<scope>source.python,source.rush,source.ruby</scope>
+	<description>生成rush【main函数+错误处理方法】模板</description>
 </snippet>

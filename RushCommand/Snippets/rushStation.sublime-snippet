@@ -23,7 +23,7 @@
 app_setup(app)
 {
   app.settings = {
-    "station-name" : "Atlas Station Example",
+    "station-name" : "Atlas Station Example$1",
     "force-fullscreen" : :FALSE:,
     "start-button" : {
 		# "groups" : [{
@@ -38,12 +38,12 @@ app_setup(app)
   #     	     ]
 		# }]
     },
-	"custom-test-modes" : [
-	{
-		"name" : "Test Plan Setup",
-		"base-test-mode" : "LineBringup"
-	}
-	]
+	# "custom-test-modes" : [
+	# {
+	# 	"name" : "Test Plan Setup",
+	# 	"base-test-mode" : "LineBringup"
+	# }
+	# ]
   }
 }
 
@@ -141,5 +141,6 @@ group_teardown(group)
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>Station</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.python</scope>
+	<scope>source.python,source.rush,source.ruby</scope>
+	<description>生成Atlas Station模板</description>
 </snippet>
