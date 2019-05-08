@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Atlas.execute_test(testName, functionPointer, args...)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>execute_test</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python,source.rush,source.ruby</scope>
+	<description>execute_test(testName, functionPointer, args...)</description>
+</snippet>
