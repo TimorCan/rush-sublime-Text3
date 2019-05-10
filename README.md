@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/build-success-green.svg)
+
 # rush-sublime-Text3
 
 
