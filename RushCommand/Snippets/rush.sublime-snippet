@@ -1,13 +1,49 @@
 <snippet>
 	<content><![CDATA[
-main () {		
-    println("rush")$1
-}
+# Atlas Logging:
+#	 =>	Atlas.Log.info(arguemnts...)
+#	 =>	Atlas.Log.debug(arguments...)
+#	 =>	Atlas.Log.error(arguments...)
 
+# Atlas Exception:
+#	 =>	Atlas.Exceptions.PluginFailedError
+#	 =>	Atlas.Exceptions.UnitPanic
+#	 =>	Atlas.Exceptions.InvalidFileError
+#	 =>	Atlas.Exceptions.InvalidLimit
+#	 =>	Atlas.Exceptions.InvalidParameterError
+#	 =>	Atlas.Exceptions.InternalError
 
-finish_with_error(e) {
+# Atlas Call Plugin:
+#	 =>	Atlas.call_plugin(name, command)
+#	 =>	Atlas.call_plugin(name, command, parameters)
+#	 =>	Atlas.call_plugin(name, command, parameters, limits)
+#	 =>	Atlas.call_plugin(name, command, parameters, limits, options)
+
+# Atlas Execute Test:
+#	 =>	Atlas.execute_test(testName, functionPointer, args...)
+#	 =>	Atlas.execute_test(testName, prependNamesArray, functionPointer, args...)
+
+# Atlas Record Creation:
+#	 =>	Atlas.create_record(names, PassFailBool)
+#  => Atlas.create_record(names, PassFailBool, failMessage)
+#	 =>	Atlas.create_record(names, measurement, units)
+#	 =>	Atlas.create_record(names, measurement, units, limit)
+#  => Atlas.create_record(names, measurement, units, limit, failMessage)
+
+# Atlas Limit Creation:
+#	 =>	Atlas.create_limit(name, upper_limit, lower_limit, relaxed_upper_limit, relaxed_lower_limit, limit_units)
+
+# Atlas Limit Loading:
+#	 =>	Atlas.load_limits_file(file_path)
+finishWithError(e) {
 	Atlas.Log.error("caught exception", e.className)
 }
+main(){
+
+	
+}
+
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>rush</tabTrigger>
