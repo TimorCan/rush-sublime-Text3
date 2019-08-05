@@ -22,10 +22,29 @@ class rushCommand(sublime_plugin.TextCommand):
         # print("complete_path is *********************")
         # print(file_name)
         #next-->执行命令行
+        command_rushc = '/AppleInternal/Library/Frameworks/Rush.framework/bin/rushc ' + file_name
+        if command_rushc.endswith('.rush'):
+            out1 = subprocess.getstatusoutput(command_rushc)
+            status = out1[0]
+            result = out1[1]
+            if status == 1:
+                print(result)
+            #print(str(out,encoding='utf-8'))    
+        else:
+            return
         command_path = '/AppleInternal/Library/Frameworks/Rush.framework/bin/rush ' + file_name
         if command_path.endswith('.rush'):
             #这里可以执行下 rush ~/..../file.rush
-            out = subprocess.check_output(command_path, shell=True)
-            print(str(out,encoding='utf-8'))
-        else:
-            return
+            out = subprocess.getstatusoutput(command_path)
+            #print(out)
+            status1 = out[0]
+            result1 = out[1]
+            if status1 == 0:
+                print(result1)
+            else:
+                out2 = subprocess.check_output(command_path, shell=True)
+                print(str(out2, encoding='utf-8'))
+                    
+
+
+            
