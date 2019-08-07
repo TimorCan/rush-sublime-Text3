@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![](https://img.shields.io/badge/build-success-green.svg) 
 =======
 ![][image-1]
 >>>>>>> upstream/master
+=======
+![][image-1]
+>>>>>>> da948f705173ecf4921059215321f6775be4585e
 
 ![](https://img.shields.io/badge/version-1.0-orange.svg) 
 # rush-sublime-Text3
