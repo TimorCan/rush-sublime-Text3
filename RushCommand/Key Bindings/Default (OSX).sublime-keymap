@@ -1,4 +1,3 @@
 [
-    { "keys": ["command+r"], "command": "rush"},
-    { "keys": ["command+/"], "command": "zs"}
+    { "keys": ["command+r"], "command": "rush"}
 ]
