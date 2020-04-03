@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.PluginFailedError]]></content>
+<tabTrigger>Exceptions.PluginFailedError</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.PluginFailedError</description>
+</snippet>

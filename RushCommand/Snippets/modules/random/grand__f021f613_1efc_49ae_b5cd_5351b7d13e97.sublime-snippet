@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.grand(${1:})]]></content>
+<tabTrigger>grand()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number from a a href="https://en.wikipedia.org/wiki/Normal_distribution#Standard_normal_distribution"standard normal distribution/a with μ = 0 and 𝜎 =  1./ppstrongreturns/strong: Random number/p</description>
+</snippet>

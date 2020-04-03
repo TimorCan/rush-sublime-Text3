@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.atan(${1:x})]]></content>
+<tabTrigger>atan(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the arctangent of x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

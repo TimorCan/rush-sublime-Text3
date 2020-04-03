@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.student(${1:degrees})]]></content>
+<tabTrigger>student(degrees)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a Student's t-distribution./ppstrongdegrees/strong: Number of degrees of freedom/ppstrongreturns/strong: Random number/p</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Math.log1p(${1:x})]]></content>
+<tabTrigger>log1p(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the natural logarithm (base-e) of x plus 1.
+This is equal to Math.log(x) + 1/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

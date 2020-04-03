@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.load(${1:path})]]></content>
+<tabTrigger>load(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

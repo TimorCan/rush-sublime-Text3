@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.fma(${1:x},${2: y},${3: z})]]></content>
+<tabTrigger>fma(x, y, z)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates code(x * y) + z/code/ppstrongx/strong: Number/ppstrongy/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

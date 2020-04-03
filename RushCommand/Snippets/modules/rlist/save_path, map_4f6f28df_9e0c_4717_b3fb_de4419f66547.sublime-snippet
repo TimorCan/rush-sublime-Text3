@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+RList.save(${1:path},${2: map})]]></content>
+<tabTrigger>save(path, map)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function saves a map as an RList file./ppstrongpath/strong: String path to RList file/ppstrongmap/strong: Dictionarystring any="" representing the root of the RList file/string/p</description>
+</snippet>

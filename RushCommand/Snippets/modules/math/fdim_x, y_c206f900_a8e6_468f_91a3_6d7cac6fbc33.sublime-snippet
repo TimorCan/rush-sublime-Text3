@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.fdim(${1:x},${2: y})]]></content>
+<tabTrigger>fdim(x, y)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns codex - y/code if codex &gt; y/code else returns code0/code./ppstrongx/strong: Number/ppstrongy/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

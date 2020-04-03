@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.launch_plugin(${1:object},${2: bundle},${3: plugin},${4: parameters})]]></content>
+<tabTrigger>launch_plugin(object, bundle, plugin, parameters)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>launch_plugin(object, bundle, plugin, parameters)</description>
+</snippet>

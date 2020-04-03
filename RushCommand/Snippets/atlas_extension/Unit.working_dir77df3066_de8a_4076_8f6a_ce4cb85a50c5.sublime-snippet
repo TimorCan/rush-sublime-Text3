@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Unit.working_dir]]></content>
+<tabTrigger>Unit.working_dir</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Unit.working_dir</description>
+</snippet>

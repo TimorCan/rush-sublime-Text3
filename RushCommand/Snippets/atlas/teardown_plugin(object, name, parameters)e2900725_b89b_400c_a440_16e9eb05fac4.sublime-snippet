@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.teardown_plugin(${1:object},${2: name},${3: parameters})]]></content>
+<tabTrigger>teardown_plugin(object, name, parameters)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>teardown_plugin(object, name, parameters)</description>
+</snippet>

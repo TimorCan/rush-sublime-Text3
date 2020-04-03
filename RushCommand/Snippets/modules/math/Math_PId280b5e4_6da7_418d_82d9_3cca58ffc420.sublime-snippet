@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.PI]]></content>
+<tabTrigger>Math.PI</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pi</description>
+</snippet>

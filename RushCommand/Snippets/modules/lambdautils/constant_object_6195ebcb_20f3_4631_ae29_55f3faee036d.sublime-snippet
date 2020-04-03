@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.constant(${1:object})]]></content>
+<tabTrigger>constant(object)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a function that takes no arguments and always returns object when called/ppstrongobject/strong: Any/ppstrongreturns/strong: Function code() -&gt; Any/code that takes no arguments and always returns object./p</description>
+</snippet>

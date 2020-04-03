@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.filterd(${1:function},${2: dictionary})]]></content>
+<tabTrigger>filterd(function, dictionary)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calls the passed in function on each key value pair in dictionary and returns a dictionary whose pairs the function returned True for./ppstrongfunction/strong: pointer to a function that takes two parameters (key and value) and returns a Bool/ppstrongdictionary/strong: Dictionarystring any="" to filter over/string/ppstrongreturns/strong: Dictionarystring any="" of return values from the result of filtering/string/p</description>
+</snippet>

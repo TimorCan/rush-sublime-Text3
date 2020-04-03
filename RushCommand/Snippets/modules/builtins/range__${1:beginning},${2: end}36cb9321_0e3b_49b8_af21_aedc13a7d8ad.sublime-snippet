@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+range_(${1:beginning},${2: end})]]></content>
+<tabTrigger>range_(${1:beginning},${2: end}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

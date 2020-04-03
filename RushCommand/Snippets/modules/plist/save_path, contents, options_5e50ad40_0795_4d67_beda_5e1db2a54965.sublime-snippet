@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+PList.save(${1:path},${2: contents},${3: options})]]></content>
+<tabTrigger>save(path, contents, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSaves the specified dictionary as a PList./ppstrongpath/strong: String path to PList file/ppstrongcontents/strong: Dictionary to serialize/ppstrongoptions/strong: Dictionary of options to pass during save./ppstrongValid options/strong/p</description>
+</snippet>

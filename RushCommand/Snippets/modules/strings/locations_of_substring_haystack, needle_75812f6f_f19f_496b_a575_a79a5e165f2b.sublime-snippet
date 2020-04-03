@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.locations_of_substring(${1:haystack},${2: needle})]]></content>
+<tabTrigger>locations_of_substring(haystack, needle)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSearches for the location of all instances of the string codeneedle/code in the given string codehaystack/code./ppstronghaystack/strong: String to look for codeneedle/code in/ppstrongneedle/strong: String to find in codehaystack/code/ppstrongreturns/strong: Nil if codeneedle/code is not found. Array of locations of codeneedle/code if it is found./p</description>
+</snippet>

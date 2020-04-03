@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Algebra.vector!norm(${1:a})]]></content>
+<tabTrigger>vector!norm(a)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes two vectors and calculates the Euclidean norm.
+The result is equal to codeMath.sqrt(Algebra.vector!dotp(a a))/code./ppstronga/strong: Array of numbers representing a vector/ppstrongreturns/strong: Euclidean norm of the vector/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.TWO_OVER_SQRTPI]]></content>
+<tabTrigger>Math.TWO_OVER_SQRTPI</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>2 / sqrt(pi)</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+PList.parse(${1:string})]]></content>
+<tabTrigger>parse(string)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pParses an XML formatted PList string/ppstrongstring/strong : XML formatted PList string/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isNil(${1:object})]]></content>
+<tabTrigger>isNil(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is Nil/ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

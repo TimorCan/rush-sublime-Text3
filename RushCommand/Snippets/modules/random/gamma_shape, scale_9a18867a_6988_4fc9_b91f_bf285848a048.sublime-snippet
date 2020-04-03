@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.gamma(${1:shape},${2: scale})]]></content>
+<tabTrigger>gamma(shape, scale)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a Gamma distribution./ppstrongshape/strong: Shape parameter/ppstrongscale/strong: Scale parameter/ppstrongreturns/strong: Random number/p</description>
+</snippet>

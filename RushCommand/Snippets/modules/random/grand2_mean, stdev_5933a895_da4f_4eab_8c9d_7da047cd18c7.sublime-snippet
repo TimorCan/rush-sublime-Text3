@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.grand2(${1:mean},${2: stdev})]]></content>
+<tabTrigger>grand2(mean, stdev)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a normal distribution that has the specified mean (μ) and standard deviation (𝜎)./ppstrongmean/strong: Mean (μ)/ppstrongstdev/strong: Standard deviation (𝜎)/ppstrongreturns/strong: Random number/p</description>
+</snippet>

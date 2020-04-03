@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.tolower(${1:str})]]></content>
+<tabTrigger>tolower(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pConverts all characters in codestr/code to their lowercase equivalent if possible. If a character is an uppercase letter and has a lowercase equivalent in is converted. If no such conversion is possible the character is unchanged./ppstrongstr/strong: String to be converted to lowercase/ppstrongreturns/strong: String with all characters replaced with their lowercase equivalents where possible./p</description>
+</snippet>

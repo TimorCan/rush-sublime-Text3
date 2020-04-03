@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.tick(${1:tag})]]></content>
+<tabTrigger>tick(tag)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>tick(tag)</description>
+</snippet>

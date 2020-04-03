@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.E]]></content>
+<tabTrigger>Math.E</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>e</description>
+</snippet>

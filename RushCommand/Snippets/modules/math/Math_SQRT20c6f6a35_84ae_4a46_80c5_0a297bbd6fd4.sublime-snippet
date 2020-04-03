@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.SQRT2]]></content>
+<tabTrigger>Math.SQRT2</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Square root of 2</description>
+</snippet>

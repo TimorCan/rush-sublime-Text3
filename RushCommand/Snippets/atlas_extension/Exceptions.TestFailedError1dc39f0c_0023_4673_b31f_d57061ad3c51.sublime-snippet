@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.TestFailedError]]></content>
+<tabTrigger>Exceptions.TestFailedError</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.TestFailedError</description>
+</snippet>

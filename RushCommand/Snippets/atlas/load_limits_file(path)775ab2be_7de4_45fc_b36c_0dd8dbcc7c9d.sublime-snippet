@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.load_limits_file(${1:path})]]></content>
+<tabTrigger>load_limits_file(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>load_limits_file(path)</description>
+</snippet>

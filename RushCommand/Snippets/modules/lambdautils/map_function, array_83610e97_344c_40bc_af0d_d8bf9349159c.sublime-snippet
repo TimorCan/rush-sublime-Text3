@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.map(${1:function},${2: array})]]></content>
+<tabTrigger>map(function, array)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calls the passed in function on each element of array and returns an array of the results/ppstrongfunction/strong: pointer to a function that takes one parameter/ppstrongarray/strong: Arrayany to map over/any/ppstrongreturns/strong: Arrayany of return values from the result of mapping/any/p</description>
+</snippet>

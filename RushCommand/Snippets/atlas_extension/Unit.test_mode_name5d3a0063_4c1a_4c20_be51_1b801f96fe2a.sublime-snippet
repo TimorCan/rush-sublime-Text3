@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Unit.test_mode_name]]></content>
+<tabTrigger>Unit.test_mode_name</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Unit.test_mode_name</description>
+</snippet>

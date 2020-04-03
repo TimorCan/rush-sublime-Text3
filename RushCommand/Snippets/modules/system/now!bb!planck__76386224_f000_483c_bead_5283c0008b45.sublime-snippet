@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.:now!bb!planck:(${1:})]]></content>
+<tabTrigger>now!bb!planck()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pGets the number of planck-times elapsed since the BigBang/ppstrongreturns/strong: Number representing number of plank-times/ppThis function is intentionally invalid syntax. It is intended as a joke function. How to call it is left as an exercise to the reader./p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Bitops.bitOr(${1:a},${2: b})]]></content>
+<tabTrigger>bitOr(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the bitwise or of a and b codea | b/code/ppstronga/strong: Number/ppstrongb/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

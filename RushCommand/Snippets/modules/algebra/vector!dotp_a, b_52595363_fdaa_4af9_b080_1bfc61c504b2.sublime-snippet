@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.vector!dotp(${1:a},${2: b})]]></content>
+<tabTrigger>vector!dotp(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes two vectors and calculates the dot product/ppstronga/strong: Array of numbers representing a vector/ppstrongb/strong: Array of numbers representing a vector/ppstrongreturns/strong: Dot product of the two vectors/p</description>
+</snippet>

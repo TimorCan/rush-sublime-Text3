@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BlobUtils.blob2data(${1:value})]]></content>
+<tabTrigger>blob2data(value)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pDecodes a serialized blob back to a Rush datatype./ppstrongvalue/strong: Encoded Rush blob data from codeBlobUtils.data2blob/code/ppstrongreturns/strong: Valid Rush datatype based on the encoded data/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.timestring(${1:format})]]></content>
+<tabTrigger>timestring(format)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the current time formatted by the given string. If no format specified uses "%D %T"./ppstrongformat/strong: A format string conforming to a href="https://www.freebsd.org/cgi/man.cgi?query=strftime&amp;apropos=0&amp;sektion=3&amp;manpath=FreeBSD+9.0-RELEASE&amp;arch=default&amp;format=html"strftime options/a/ppstrongreturns/strong: Formatted string/p</description>
+</snippet>

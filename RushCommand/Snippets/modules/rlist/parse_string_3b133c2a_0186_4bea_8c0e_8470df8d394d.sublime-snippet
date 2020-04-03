@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+RList.parse(${1:string})]]></content>
+<tabTrigger>parse(string)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns the representation of an RList string without applying the inherits (its pure parsed representation). This parse function will also parse JSON strings./ppstrongstring/strong: RList or JSON string/ppstrongreturns/strong: Dictionarystring any="" representing the root of the RList or JSON string/string/p</description>
+</snippet>

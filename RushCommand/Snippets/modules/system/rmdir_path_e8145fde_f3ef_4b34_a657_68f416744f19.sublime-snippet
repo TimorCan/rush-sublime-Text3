@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.rmdir(${1:path})]]></content>
+<tabTrigger>rmdir(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pRemove the directory at the given codepath/code. Directory must be empty./ppstrongpath/strong: String representing the path of the directory to remove/p</description>
+</snippet>

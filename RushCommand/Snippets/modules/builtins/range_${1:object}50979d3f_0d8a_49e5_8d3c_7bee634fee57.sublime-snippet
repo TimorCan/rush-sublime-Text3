@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+range(${1:object})]]></content>
+<tabTrigger>range(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

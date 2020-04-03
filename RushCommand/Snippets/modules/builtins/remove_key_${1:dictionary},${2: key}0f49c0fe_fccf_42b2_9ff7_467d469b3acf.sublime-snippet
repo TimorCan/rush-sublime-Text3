@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+remove_key(${1:dictionary},${2: key})]]></content>
+<tabTrigger>remove_key(${1:dictionary},${2: key}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function removes the key for the dictionary passed in if it exists./ppstrongdictionary/strong: Dictionary/ppstrongkey/strong: String/ppstrongreturns/strong: :TRUE: if the key existed and was removed :FALSE: otherwise/p</description>
+</snippet>

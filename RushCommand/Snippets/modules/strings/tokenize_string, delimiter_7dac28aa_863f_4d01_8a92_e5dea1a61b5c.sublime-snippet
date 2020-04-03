@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.tokenize(${1:string},${2: delimiter})]]></content>
+<tabTrigger>tokenize(string, delimiter)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pBreaks up a given string on the specified delimiter./ppstrongstring/strong: String to tokenize/ppstrongdelimiter/strong: String to use as delimiter/ppstrongreturns/strong: Array of substrings not including the delimiter/p</description>
+</snippet>

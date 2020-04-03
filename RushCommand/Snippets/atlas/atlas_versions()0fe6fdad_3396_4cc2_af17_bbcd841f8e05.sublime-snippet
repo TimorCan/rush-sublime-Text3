@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.atlas_versions(${1:})]]></content>
+<tabTrigger>atlas_versions()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>atlas_versions()</description>
+</snippet>

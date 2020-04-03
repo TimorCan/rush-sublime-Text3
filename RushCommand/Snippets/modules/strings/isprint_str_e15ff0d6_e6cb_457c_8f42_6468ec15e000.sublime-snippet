@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.isprint(${1:str})]]></content>
+<tabTrigger>isprint(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChecks if each character in codestr/code is a printable character. A printable character is a character that occupies a printing position on a display (this is the opposite of a control character checked with iscntrl). For the standard ASCII character set (used by the "C" locale) printing characters are all with an ASCII code greater than 0x1f (US) except 0x7f (DEL)./ppstrongstr/strong: String to be checked/ppstrongreturns/strong: True if all characters in the string are printable characters. False otherwise./p</description>
+</snippet>

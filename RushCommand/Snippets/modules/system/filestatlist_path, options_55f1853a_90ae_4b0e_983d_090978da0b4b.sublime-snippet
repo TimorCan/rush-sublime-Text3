@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.filestatlist(${1:path},${2: options})]]></content>
+<tabTrigger>filestatlist(path, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns all the "stat" information about the items in the directory at codepath/code. It returns it as an array of dictionaries filled with information./ppstrongpath/strong: String/ppstrongoptions/strong: Dictionary declaring boolean options:/ppstrongreturns/strong: Arraydictionary/dictionary/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+PList.load(${1:path})]]></content>
+<tabTrigger>load(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the PList file contents/ppstrongpath/strong: String path to PList file/ppstrongreturns/strong: Dictionarystring any="" representing the root of the PList file/string/p</description>
+</snippet>

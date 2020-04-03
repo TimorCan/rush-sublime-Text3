@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isString(${1:object})]]></content>
+<tabTrigger>isString(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is a string/ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

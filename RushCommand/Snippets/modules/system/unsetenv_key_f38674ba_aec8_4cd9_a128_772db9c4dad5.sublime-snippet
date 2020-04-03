@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.unsetenv(${1:key})]]></content>
+<tabTrigger>unsetenv(key)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pRemoves an environment variable/ppstrongkey/strong: String representing environment variable key/p</description>
+</snippet>

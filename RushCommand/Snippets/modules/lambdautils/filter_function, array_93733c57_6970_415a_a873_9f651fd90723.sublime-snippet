@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.filter(${1:function},${2: array})]]></content>
+<tabTrigger>filter(function, array)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calls the passed in function on each element of array and returns an array whose items the function returned True for./ppstrongfunction/strong: pointer to a function that takes one parameter and returns a Bool/ppstrongarray/strong: Arrayany to filter over/any/ppstrongreturns/strong: Arrayany of return values from the result of filtering/any/p</description>
+</snippet>

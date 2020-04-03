@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.create_record(${1:names},${2: isPass},${3: failMessage},${4: priority})]]></content>
+<tabTrigger>create_record(names, isPass, failMessage, priority)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>create_record(names, isPass, failMessage, priority)</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.are_files_secure(${1:})]]></content>
+<tabTrigger>are_files_secure()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>are_files_secure()</description>
+</snippet>

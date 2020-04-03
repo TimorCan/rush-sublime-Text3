@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+cprintln(${1:separator},${2: args...})]]></content>
+<tabTrigger>cprintln(${1:separator},${2: args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function the same as codecprintln/code except that a newline will be printed at the end./ppstrongseparator/strong: Any/ppstrongargs/strong: Any/p</description>
+</snippet>

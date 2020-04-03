@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.exit(${1:value})]]></content>
+<tabTrigger>exit(value)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

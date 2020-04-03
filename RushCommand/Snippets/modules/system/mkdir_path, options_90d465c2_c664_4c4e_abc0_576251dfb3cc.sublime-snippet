@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+System.mkdir(${1:path},${2: options})]]></content>
+<tabTrigger>mkdir(path, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pCreates a directory at the given codepath/code./ppstrongpath/strong: String representing the path of the directory to create/ppstrongoptions/strong: Dictionary of options for directory creation/ppMore information on valid Mode values at the a href="https://www.freebsd.org/cgi/man.cgi?query=chmod&amp;apropos=0&amp;sektion=2&amp;manpath=FreeBSD+5.3-RELEASE&amp;arch=default&amp;format=html"chmod Man Page/a
+More information on valid UMask values at the a href="https://www.freebsd.org/cgi/man.cgi?query=umask&amp;apropos=0&amp;sektion=2&amp;manpath=FreeBSD+11.2-RELEASE&amp;arch=default&amp;format=html"umask Man Page/a/ppIf "UMask" is set it is applied to the final permissions of the directory./p</description>
+</snippet>

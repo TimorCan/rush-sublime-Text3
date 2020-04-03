@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.SQRT1_2]]></content>
+<tabTrigger>Math.SQRT1_2</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>1 / sqrt(2)</description>
+</snippet>

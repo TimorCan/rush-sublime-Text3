@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.log2(${1:x})]]></content>
+<tabTrigger>log2(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the base-2 logarithm of x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

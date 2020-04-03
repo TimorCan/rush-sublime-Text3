@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.ranges_of_substring(${1:haystack},${2: needle})]]></content>
+<tabTrigger>ranges_of_substring(haystack, needle)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSearches for all instances of the string codeneedle/code in the given string codehaystack/code and returns the location and range./ppstronghaystack/strong: String to look for codeneedle/code in/ppstrongneedle/strong: String to find in codehaystack/code/ppstrongreturns/strong: Nil if codeneedle/code is not found. An array of arrays with each entry having index zero equal to the position codeneedle/code was found and index one equal to the length of codeneedle/code if codeneedle/code. There is one array entry for each instance of codeneedle/code that is found./p</description>
+</snippet>

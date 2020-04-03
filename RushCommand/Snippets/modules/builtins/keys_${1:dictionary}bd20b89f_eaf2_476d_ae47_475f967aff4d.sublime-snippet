@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+keys(${1:dictionary})]]></content>
+<tabTrigger>keys(${1:dictionary}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns an array of all the keys in the dictionary/ppstrongobject/strong: Dictionary/ppstrongreturns/strong: Arraystring/string/p</description>
+</snippet>

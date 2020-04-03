@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.reduce(${1:function},${2: array},${3: object})]]></content>
+<tabTrigger>reduce(function, array, object)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calls the passed in function on each element of array passing in object as well. Whatever this function returns becomes the object passed in on the next iteration./ppstrongfunction/strong: pointer to a function that takes two parameters (object and item in array)/ppstrongarray/strong: Arrayany to map over/any/ppstrongreturns/strong: The final return value of the last call of function/p</description>
+</snippet>

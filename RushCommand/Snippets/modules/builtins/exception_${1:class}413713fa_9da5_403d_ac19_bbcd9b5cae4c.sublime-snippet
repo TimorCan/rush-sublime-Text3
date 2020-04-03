@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+exception(${1:class})]]></content>
+<tabTrigger>exception(${1:class}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

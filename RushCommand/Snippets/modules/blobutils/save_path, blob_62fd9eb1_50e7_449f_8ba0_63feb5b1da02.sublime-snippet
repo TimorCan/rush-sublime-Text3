@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BlobUtils.save(${1:path},${2: blob})]]></content>
+<tabTrigger>save(path, blob)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSaves blob data to a give file path/ppstrongpath/strong: Path to save blob data/ppstrongblob/strong: Blob data returned by codeBlobUtils.data2blob()/code/p</description>
+</snippet>

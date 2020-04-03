@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Bitops.bitLsr(${1:a},${2: b})]]></content>
+<tabTrigger>bitLsr(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the bitwise logical shift right codea &gt;&gt; b/code./ppstronga/strong: Number/ppstrongb/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

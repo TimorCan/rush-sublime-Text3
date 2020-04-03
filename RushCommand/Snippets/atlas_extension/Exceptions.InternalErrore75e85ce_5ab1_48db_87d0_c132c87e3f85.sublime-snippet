@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.InternalError]]></content>
+<tabTrigger>Exceptions.InternalError</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.InternalError</description>
+</snippet>

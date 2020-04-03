@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+arity(${1:function})]]></content>
+<tabTrigger>arity(${1:function}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns the minimum number of arguments the given codefunction/code takes./ppstrongfunction/strong: Function/ppstrongreturns/strong: Number/p</description>
+</snippet>

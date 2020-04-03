@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+MatlabFile.save(${1:file},${2: dict})]]></content>
+<tabTrigger>save(file, dict)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pstrongfile/strong: Path to save the .mat file/ppstrongdict/strong: Rush dictionary to save/p</description>
+</snippet>

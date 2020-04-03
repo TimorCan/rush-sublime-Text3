@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Priority.Audit]]></content>
+<tabTrigger>Priority.Audit</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Priority.Audit</description>
+</snippet>

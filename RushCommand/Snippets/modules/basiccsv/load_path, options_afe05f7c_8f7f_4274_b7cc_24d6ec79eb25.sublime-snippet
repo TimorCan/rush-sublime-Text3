@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.load(${1:path},${2: options})]]></content>
+<tabTrigger>load(path, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function parses a CSV file at path./ppstrongpath/strong: Full path to the CSV file/ppstrongoptions/strong: Dictionary of options for reading CSV content/ppstrongLoad Options/strong/ppstrongreturns/strong: Array of arrays representing the CSV content/p</description>
+</snippet>

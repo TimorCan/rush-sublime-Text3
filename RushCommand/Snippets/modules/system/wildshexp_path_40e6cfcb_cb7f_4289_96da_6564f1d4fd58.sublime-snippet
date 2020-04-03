@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.wildshexp(${1:path})]]></content>
+<tabTrigger>wildshexp(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pExpands the codepath/code string based on the rules of codeSystem.shexp()/code and then codeSystem.glob()/code./p</description>
+</snippet>

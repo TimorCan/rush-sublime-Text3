@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isArray(${1:object})]]></content>
+<tabTrigger>isArray(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is an array/ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

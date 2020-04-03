@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.interpolate(${1:xvalues},${2: yvalues})]]></content>
+<tabTrigger>interpolate(xvalues, yvalues)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

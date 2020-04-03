@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.isdigit(${1:str})]]></content>
+<tabTrigger>isdigit(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChecks if each character in codestr/code is a decimal digit character. Decimal digits are any of: 0 1 2 3 4 5 6 7 8 9./ppstrongstr/strong: String to be checked/ppstrongreturns/strong: True if all characters in the string are decimal digits. False otherwise./p</description>
+</snippet>

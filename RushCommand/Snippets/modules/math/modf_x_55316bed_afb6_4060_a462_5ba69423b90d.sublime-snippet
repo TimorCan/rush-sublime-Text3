@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.modf(${1:x})]]></content>
+<tabTrigger>modf(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function breaks x into its integral and fractional parts/ppstrongx/strong: Number/ppstrongreturns/strong: Array where index 0 is the integral part and index 1 is the fractional part/p</description>
+</snippet>

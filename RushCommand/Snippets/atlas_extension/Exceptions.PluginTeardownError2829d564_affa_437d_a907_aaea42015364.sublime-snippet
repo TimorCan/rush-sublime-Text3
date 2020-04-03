@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.PluginTeardownError]]></content>
+<tabTrigger>Exceptions.PluginTeardownError</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.PluginTeardownError</description>
+</snippet>

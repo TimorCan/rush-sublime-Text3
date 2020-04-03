@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.pareto(${1:shape},${2: scale})]]></content>
+<tabTrigger>pareto(shape, scale)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a Pareto distribution./ppstrongshape/strong: Shape parameter/ppstrongscale/strong: Scale parameter/ppstrongreturns/strong: Random number/p</description>
+</snippet>

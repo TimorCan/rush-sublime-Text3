@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Math.gamma(${1:x})]]></content>
+<tabTrigger>gamma(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the gamma function of x.
+This is identical to Math.tgamma/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

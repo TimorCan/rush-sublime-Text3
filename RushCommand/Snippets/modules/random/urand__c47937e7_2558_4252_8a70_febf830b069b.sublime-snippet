@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.urand(${1:})]]></content>
+<tabTrigger>urand()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number from a uniform distribution in the open interval (01)./ppstrongreturns/strong: Random number/p</description>
+</snippet>

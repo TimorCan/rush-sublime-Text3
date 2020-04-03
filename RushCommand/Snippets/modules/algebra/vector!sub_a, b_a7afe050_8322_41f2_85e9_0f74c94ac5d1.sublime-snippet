@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.vector!sub(${1:a},${2: b})]]></content>
+<tabTrigger>vector!sub(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes two vectors and calculates their difference/ppstronga/strong: Array of numbers representing a vector/ppstrongb/strong: Array of numbers representing a vector/ppstrongreturns/strong: The difference of the two vectors/p</description>
+</snippet>

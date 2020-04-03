@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.crand2(${1:median},${2: scale})]]></content>
+<tabTrigger>crand2(median, scale)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a Cauchy distribution with the specified median value and scale./ppstrongmedian/strong: Median value number/ppstrongscale/strong: Scaling number/ppstrongreturns/strong: Random number/p</description>
+</snippet>

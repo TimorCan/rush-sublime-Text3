@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+JSON.parse(${1:string})]]></content>
+<tabTrigger>parse(string)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pParses a JSON string and returns its representation/ppstrongstring/strong: JSON formatted string/ppstrongreturns/strong: Dictionarystring any="" representing the root of the JSON string/string/p</description>
+</snippet>

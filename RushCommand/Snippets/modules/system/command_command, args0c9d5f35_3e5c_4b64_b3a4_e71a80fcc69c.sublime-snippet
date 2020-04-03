@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.command(${1:command},${2: args...})]]></content>
+<tabTrigger>command(command, args</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pRuns the bash command in a child process and returns the exit code output string and error string. The command will not do through shell expansion so codeSystem.command("~/bin/myscript.sh")/code will not work but codeSystem.command(System.getenv("HOME") + "/bin/myscript.sh")/code will. If shell expansion is required explicitly do expansion beforehand with a href="#systemshexppath"System.shexp()/a./ppstrongcommand/strong: String/ppstrongargs/strong: Strings/ppstrongreturns/strong: Dictionary/ppUse codeSystem.system()/code if output and error strings are not needed./p</description>
+</snippet>

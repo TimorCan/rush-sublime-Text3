@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+choice(${1:condition},${2: a},${3: b})]]></content>
+<tabTrigger>choice(${1:condition},${2: a},${3: b}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a if condition is True otherwise b./ppstrongcondition/strong: Bool/ppstronga/strong: Any/ppstrongb/strong: Any/ppstrongreturns/strong: Any/p</description>
+</snippet>

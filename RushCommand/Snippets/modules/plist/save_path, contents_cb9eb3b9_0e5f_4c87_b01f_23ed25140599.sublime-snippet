@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+PList.save(${1:path},${2: contents})]]></content>
+<tabTrigger>save(path, contents)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

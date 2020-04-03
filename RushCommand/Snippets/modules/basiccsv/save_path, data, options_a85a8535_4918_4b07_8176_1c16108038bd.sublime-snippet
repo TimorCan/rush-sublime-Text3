@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.save(${1:path},${2: data},${3: options})]]></content>
+<tabTrigger>save(path, data, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function saves the given data as a CSV file at the given path/ppstrongpath/strong: Full path to the CSV file/ppstrongdata/strong: Array of arrays representing CSV data/ppstrongoptions/strong: Dictionary of options for writing CSV content/ppstrongSave Options/strong/p</description>
+</snippet>

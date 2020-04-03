@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.chmod(${1:path},${2: mode})]]></content>
+<tabTrigger>chmod(path, mode)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSets the file permission bits of the file specified by the pathname codepath/code to codemode/code./ppstrongpath/strong: String representing the pathname/ppstrongmode/strong: Integer representing the file mode/ppMore information on valid Mode values at the a href="https://www.freebsd.org/cgi/man.cgi?query=chmod&amp;apropos=0&amp;sektion=2&amp;manpath=FreeBSD+5.3-RELEASE&amp;arch=default&amp;format=html"chmod Man Page/a/p</description>
+</snippet>

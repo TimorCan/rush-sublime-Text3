@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.path_for_resource(${1:name})]]></content>
+<tabTrigger>path_for_resource(name)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>path_for_resource(name)</description>
+</snippet>

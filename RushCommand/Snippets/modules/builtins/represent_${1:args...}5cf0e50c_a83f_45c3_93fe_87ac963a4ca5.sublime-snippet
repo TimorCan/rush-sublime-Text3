@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+represent(${1:args...})]]></content>
+<tabTrigger>represent(${1:args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function is like codestringify/code except that is returns the debug representation of the objects. This is slightly different as strings will be quoted etc./ppstrongargs/strong: Any/ppstrongreturns/strong: String/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.sinh(${1:x})]]></content>
+<tabTrigger>sinh(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the hyperbolic sine of x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

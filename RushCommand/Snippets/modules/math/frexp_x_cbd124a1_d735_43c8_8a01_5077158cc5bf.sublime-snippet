@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.frexp(${1:x})]]></content>
+<tabTrigger>frexp(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function breaks x into its significand and exponent such that x = significand * 2^exponent/ppstrongx/strong: Number/ppstrongreturns/strong: Array where index 0 is the significand part and index 1 is the exponent part/p</description>
+</snippet>

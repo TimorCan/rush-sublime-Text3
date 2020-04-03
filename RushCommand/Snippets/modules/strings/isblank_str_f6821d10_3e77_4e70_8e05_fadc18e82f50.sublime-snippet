@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.isblank(${1:str})]]></content>
+<tabTrigger>isblank(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChecks if each character in codestr/code is a blank character. A blank character is a space character used to separate words within a line of text. The standard "C" locale considers blank characters the tab character ('\t') and the space character (' ')./ppstrongstr/strong: String to be checked/ppstrongreturns/strong: True if all characters in the string are blank characters. False otherwise./p</description>
+</snippet>

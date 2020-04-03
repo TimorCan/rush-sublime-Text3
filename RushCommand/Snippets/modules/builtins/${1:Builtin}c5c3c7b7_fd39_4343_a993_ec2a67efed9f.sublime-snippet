@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Builtin})]]></content>
+<tabTrigger>${1:Builtin}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis module provides some useful aliases and constants.
+All of these can be accessed without the codeBuiltins/code prefix./p</description>
+</snippet>

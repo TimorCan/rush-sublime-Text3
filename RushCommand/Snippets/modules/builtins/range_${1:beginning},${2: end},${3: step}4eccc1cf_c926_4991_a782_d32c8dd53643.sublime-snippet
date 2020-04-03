@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+range(${1:beginning},${2: end},${3: step})]]></content>
+<tabTrigger>range(${1:beginning},${2: end},${3: step}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function creates an array of numbers from beginning to end counting by step./ppIf a single object is passed and that object is a string or array this function will return the list of indices for that object./ppThis function is exclusive of the end value./ppstrongobject/strong: String or Array/ppstrongbeginning/strong: Number starting value/ppstrongend/strong: Number ending value/ppstrongstep/strong: Number step to increment by. Defaults to 1./ppstrongreturns/strong: Array of numbers/p</description>
+</snippet>

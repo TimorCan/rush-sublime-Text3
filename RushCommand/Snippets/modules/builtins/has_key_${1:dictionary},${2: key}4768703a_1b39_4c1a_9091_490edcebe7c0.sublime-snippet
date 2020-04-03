@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+has_key(${1:dictionary},${2: key})]]></content>
+<tabTrigger>has_key(${1:dictionary},${2: key}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the dictionary contains the given key./ppstrongdictionary/strong: Dictionary/ppstrongkey/strong: String/ppstrongreturns/strong: :TRUE: if the key exists :FALSE: otherwise/p</description>
+</snippet>

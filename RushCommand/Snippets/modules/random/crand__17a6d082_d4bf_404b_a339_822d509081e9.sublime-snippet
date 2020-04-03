@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.crand(${1:})]]></content>
+<tabTrigger>crand()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number from a cauchy distribution with median = 0 and scale = 1./ppstrongreturns/strong: Random number/p</description>
+</snippet>

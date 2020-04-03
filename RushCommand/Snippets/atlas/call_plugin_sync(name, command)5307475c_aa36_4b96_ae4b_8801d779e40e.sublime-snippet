@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.call_plugin_sync(${1:name},${2: command})]]></content>
+<tabTrigger>call_plugin_sync(name, command)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>call_plugin_sync(name, command)</description>
+</snippet>

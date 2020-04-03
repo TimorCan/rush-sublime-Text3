@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+exception(${1:class},${2: object},${3: message})]]></content>
+<tabTrigger>exception(${1:class},${2: object},${3: message}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function creates and returns an exception object. This does not raise the exception./ppstrongclass/strong: String/ppstrongobject/strong: Any/ppstrongmessage/strong: String/ppstrongreturns/strong: Exception/p</description>
+</snippet>

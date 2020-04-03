@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.stat(${1:path})]]></content>
+<tabTrigger>stat(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns all the "stat" information about the file at codepath/code./ppstrongpath/strong: String/ppstrongreturns/strong: Dictionary/p</description>
+</snippet>

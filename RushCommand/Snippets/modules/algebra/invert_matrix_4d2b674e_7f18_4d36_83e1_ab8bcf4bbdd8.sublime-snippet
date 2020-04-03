@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.invert(${1:matrix})]]></content>
+<tabTrigger>invert(matrix)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the inverse of a matrix./ppstrongmatrix/strong: Array of numbers representing a 2D square matrix/ppstrongreturns/strong: inverse of the matrix/p</description>
+</snippet>

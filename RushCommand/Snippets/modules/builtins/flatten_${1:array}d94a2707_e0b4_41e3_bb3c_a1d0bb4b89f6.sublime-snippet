@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+flatten(${1:array})]]></content>
+<tabTrigger>flatten(${1:array}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a flat array. If any object in the array is another array it will be flattened into the containing array./ppstrongobject/strong: Dictionary/ppstrongreturns/strong: Arraystring/string/p</description>
+</snippet>

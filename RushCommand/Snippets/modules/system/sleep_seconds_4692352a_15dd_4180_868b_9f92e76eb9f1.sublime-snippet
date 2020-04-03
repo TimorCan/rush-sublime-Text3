@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.sleep(${1:seconds})]]></content>
+<tabTrigger>sleep(seconds)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSleeps the current thread/ppstrongseconds/strong: Number of seconds to sleep/ppstrongreturns/strong: Number of seconds actually slept/p</description>
+</snippet>

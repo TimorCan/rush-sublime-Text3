@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+print(${1:args...})]]></content>
+<tabTrigger>print(${1:args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes all its arguments and prints them without a separator. It does not add a newline at the end./ppstrongargs/strong: Any/p</description>
+</snippet>

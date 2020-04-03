@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.call_app(${1:command},${2: parameters},${3: limits})]]></content>
+<tabTrigger>call_app(command, parameters, limits)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>call_app(command, parameters, limits)</description>
+</snippet>

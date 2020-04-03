@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+cformat(${1:format},${2: ...})]]></content>
+<tabTrigger>cformat(${1:format},${2: ...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the C string defined by format. If format includes format specifiers (subsequences beginning with %) the additional arguments following format are formatted and inserted in the resulting string replacing their respective specifiers./ppThis function behaves the same as the C codeprintf/code function./ppstrongformat/strong: Format string that matches C codeprintf/code formatting/ppstrongreturns/strong: Formatted string/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.now(${1:})]]></content>
+<tabTrigger>now()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pGets the current time/ppstrongreturns/strong: Number representing seconds since epoch/p</description>
+</snippet>

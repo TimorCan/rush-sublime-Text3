@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isNativeFunction(${1:object})]]></content>
+<tabTrigger>isNativeFunction(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is a function implemented in Rush./ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

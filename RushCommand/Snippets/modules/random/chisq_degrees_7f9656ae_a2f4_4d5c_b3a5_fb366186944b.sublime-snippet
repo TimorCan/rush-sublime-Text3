@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.chisq(${1:degrees})]]></content>
+<tabTrigger>chisq(degrees)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a Chi Squared distribution./ppstrongdegrees/strong: Number of degrees of freedom/ppstrongreturns/strong: Random number/p</description>
+</snippet>

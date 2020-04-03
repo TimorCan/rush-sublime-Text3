@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.mapx(${1:function},${2: args...})]]></content>
+<tabTrigger>mapx(function, args</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes a function that accepts n arguments and a vararg with n values. It calculates the cartesian product of all the arguments and calls the function with each result. All the scalar values do not generate dimensions in the cartesian product so a 1-element array will produce a different data structure than a single scalar value./ppstrongfunction/strong: pointer to a function that takes &gt;= one parameter/ppstrongargs/strong: Variable args of any type/ppstrongreturns/strong: Arrayany of return values from the result of mapping/any/p</description>
+</snippet>

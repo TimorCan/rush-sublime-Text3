@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+stringify(${1:args...})]]></content>
+<tabTrigger>stringify(${1:args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function converts the arguments into a string. If more than one arg is passed it uses a space as the separator./ppstrongargs/strong: Any/ppstrongreturns/strong: String/p</description>
+</snippet>

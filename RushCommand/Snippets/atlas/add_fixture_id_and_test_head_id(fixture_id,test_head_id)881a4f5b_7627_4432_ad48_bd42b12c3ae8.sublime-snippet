@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.add_fixture_id_and_test_head_id(${1:fixture_id},${2:test_head_id})]]></content>
+<tabTrigger>add_fixture_id_and_test_head_id(fixture_id,test_head_id)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>add_fixture_id_and_test_head_id(fixture_id,test_head_id)</description>
+</snippet>

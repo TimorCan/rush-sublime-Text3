@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+PList.dump(${1:contents})]]></content>
+<tabTrigger>dump(contents)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pDumps the specified dictionary as a XML formatted PList string/ppstrongcontents/strong: Dictionary to serialize/ppstrongreturns/strong: XML formatted PList string/p</description>
+</snippet>

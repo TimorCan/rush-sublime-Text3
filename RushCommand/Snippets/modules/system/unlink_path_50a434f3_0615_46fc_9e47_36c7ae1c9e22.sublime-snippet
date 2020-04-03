@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.unlink(${1:path})]]></content>
+<tabTrigger>unlink(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pUnlink the name at the given codepath/code from its directory. codeunlink/code and coderm/code are equivalent commands./ppstrongpath/strong: String representing the path of the name to remove/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.unjag(${1:data},${2: options})]]></content>
+<tabTrigger>unjag(data, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function unjags CSV data that has been created within or loaded into Rush. An unjag or padding of CSV rows to make all rows equal in length is necessary to perform a transpose using codeBasicCSV.transpose()/code. You may also wish to use this unjag function after you have modified CSV data in Rush to make sure that your data is still in a proper matrix form./ppstrongdata/strong: Array of arrays representing CSV data/ppstrongoptions/strong: Dictionary of options for unjag behavior/ppstrongUnjag Options/strong/p</description>
+</snippet>

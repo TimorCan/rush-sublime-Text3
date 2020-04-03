@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.linsolve(${1:m},${2: v})]]></content>
+<tabTrigger>linsolve(m, v)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function solves the given a href="https://en.wikipedia.org/wiki/System_of_linear_equations"system of linear equations/a using Gaussian elimination/ppstrongm/strong: Array of numbers representing a 2D matrix (non-singular)/ppstrongv/strong: Array of numbers/ppstrongreturns/strong: Solution of this system/p</description>
+</snippet>

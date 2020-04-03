@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+size(${1:object})]]></content>
+<tabTrigger>size(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the size or length of strings arrays and dictionaries./ppstrongobject/strong: String Array Dictionary/ppstrongreturns/strong: Number size of object. Nil if object does not have size./p</description>
+</snippet>

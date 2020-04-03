@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.TestModes.SustainingAudit]]></content>
+<tabTrigger>TestModes.SustainingAudit</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>TestModes.SustainingAudit</description>
+</snippet>

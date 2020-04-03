@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+while ${1:conditions} {
+  #code
+}]]></content>
+<tabTrigger>while</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>while.</description>
+</snippet>

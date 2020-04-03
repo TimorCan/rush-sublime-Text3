@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.erand2(${1:lambda})]]></content>
+<tabTrigger>erand2(lambda)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using an exponential distribution with the given λ./ppstronglambda/strong: Lambda parameter (λ)/ppstrongreturns/strong: Random number/p</description>
+</snippet>

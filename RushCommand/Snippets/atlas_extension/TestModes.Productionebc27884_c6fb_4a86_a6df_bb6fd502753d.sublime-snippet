@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.TestModes.Production]]></content>
+<tabTrigger>TestModes.Production</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>TestModes.Production</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.removeEmptyLines(${1:data})]]></content>
+<tabTrigger>removeEmptyLines(data)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function removes all empty lines (CSV rows) within CSV data that has been created within or loaded into Rush. This function is provided as a user convenience in the case that data which originally contained empty columns now contains empty rows after codeBasicCSV.transpose()/code./ppstrongdata/strong: Array of arrays representing CSV data/p</description>
+</snippet>

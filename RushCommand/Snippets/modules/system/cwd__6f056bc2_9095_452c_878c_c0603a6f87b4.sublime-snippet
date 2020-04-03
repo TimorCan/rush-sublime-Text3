@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.cwd(${1:})]]></content>
+<tabTrigger>cwd()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the current working directory/ppstrongreturns/strong: String of the current working directory path/p</description>
+</snippet>

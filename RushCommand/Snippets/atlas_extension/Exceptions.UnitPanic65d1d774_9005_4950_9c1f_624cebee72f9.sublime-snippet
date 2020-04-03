@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.UnitPanic]]></content>
+<tabTrigger>Exceptions.UnitPanic</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.UnitPanic</description>
+</snippet>

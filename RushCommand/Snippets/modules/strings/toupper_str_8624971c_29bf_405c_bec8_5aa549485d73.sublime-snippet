@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.toupper(${1:str})]]></content>
+<tabTrigger>toupper(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pConverts all characters in codestr/code to their uppercase equivalent if possible. If a character in codestr/code does not have an uppercase equivalent then that character is left unchanged./ppstrongstr/strong: String to be converted to uppercase/ppstrongreturns/strong: String with all characters replaced with their uppercase equivalents where possible./p</description>
+</snippet>

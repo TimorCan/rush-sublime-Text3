@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Algebra.polynomial(${1:coefficients})]]></content>
+<tabTrigger>polynomial(coefficients)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes an array of numbers representing the coefficients to a polynomial function and returns
+a callable function that represents that polynomial./ppE.g:  Consider a polynomial as ax^2 + bx^1 - c*x^0. For this polynomial we need to call Algebra.polynomial([-c b a]) as it works backward/ppstrongcoefficients/strong: Array of numbers/ppstrongreturns/strong:  callable function/p</description>
+</snippet>

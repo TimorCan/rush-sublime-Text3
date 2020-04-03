@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+printf(${1:format},${2: ...})]]></content>
+<tabTrigger>printf(${1:format},${2: ...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pPrints to stdout what codecformat/code would have returned./ppstrongformat/strong: Format string that matches C codeprintf/code formatting/ppstrongreturns/strong: Nothing/p</description>
+</snippet>

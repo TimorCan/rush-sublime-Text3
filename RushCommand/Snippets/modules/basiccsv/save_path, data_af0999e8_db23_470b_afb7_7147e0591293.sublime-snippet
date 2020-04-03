@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BasicCSV.save(${1:path},${2: data})]]></content>
+<tabTrigger>save(path, data)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

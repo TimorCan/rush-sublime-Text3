@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.ONE_OVER_PI]]></content>
+<tabTrigger>Math.ONE_OVER_PI</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>1 / pi</description>
+</snippet>

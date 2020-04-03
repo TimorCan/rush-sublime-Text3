@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+:NIL:]]></content>
+<tabTrigger>Nil</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Nil value similar to Python None</description>
+</snippet>

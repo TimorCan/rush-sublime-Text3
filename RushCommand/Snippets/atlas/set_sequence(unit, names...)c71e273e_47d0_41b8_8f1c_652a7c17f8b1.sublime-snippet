@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.set_sequence(${1:unit},${2: names...})]]></content>
+<tabTrigger>set_sequence(unit, names...)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>set_sequence(unit, names...)</description>
+</snippet>

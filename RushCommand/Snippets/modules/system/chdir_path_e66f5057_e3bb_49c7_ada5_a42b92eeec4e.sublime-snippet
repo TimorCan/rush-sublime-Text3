@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.chdir(${1:path})]]></content>
+<tabTrigger>chdir(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChanges the current working directory/ppstrongpath/strong: Path to change to/p</description>
+</snippet>

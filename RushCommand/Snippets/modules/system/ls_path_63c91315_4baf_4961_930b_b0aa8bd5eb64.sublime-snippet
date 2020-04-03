@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.ls(${1:path})]]></content>
+<tabTrigger>ls(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

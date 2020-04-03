@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.transpose(${1:matrix})]]></content>
+<tabTrigger>transpose(matrix)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the transpose of a matrix./ppstrongmatrix/strong: Array of numbers representing a 2D matrix/ppstrongreturns/strong:  transpose of the matrix/p</description>
+</snippet>

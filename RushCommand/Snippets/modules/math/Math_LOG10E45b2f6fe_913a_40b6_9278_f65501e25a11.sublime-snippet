@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.LOG10E]]></content>
+<tabTrigger>Math.LOG10E</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>log10(e)</description>
+</snippet>

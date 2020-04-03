@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+JSON.dump(${1:contents})]]></content>
+<tabTrigger>dump(contents)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pDumps the specified dictionary as a JSON string/ppstrongcontents/strong: Dictionary to serialize/ppstrongreturns/strong: JSON string/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.ispunct(${1:str})]]></content>
+<tabTrigger>ispunct(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChecks if each character in codestr/code is a punctuation character. The standard "C" locale considers punctuation characters all graphic characters (as in isgraph) that are not alphanumeric (as in isalnum)./ppstrongstr/strong: String to be checked/ppstrongreturns/strong: True if all characters in the string are punctuation characters. False otherwise./p</description>
+</snippet>

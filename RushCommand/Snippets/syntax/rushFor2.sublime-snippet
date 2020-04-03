@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for index, value in ${1:list} {
+    
+}]]></content>
+<tabTrigger>forindex</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>For loops in Rush support iterating over any collection and its values.</description>
+</snippet>

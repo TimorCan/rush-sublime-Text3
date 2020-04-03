@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.isxdigit(${1:str})]]></content>
+<tabTrigger>isxdigit(str)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pChecks if each character in codestr/code is a hexdecimal digit character. Hexadecimal digits are any of: 0 1 2 3 4 5 6 7 8 9 a b c d e f A B C D E F./ppstrongstr/strong: String to be checked/ppstrongreturns/strong: True if all characters in the string are hexadecimal digit characters. False otherwise./p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Bitops.bitLog(${1:a})]]></content>
+<tabTrigger>bitLog(a)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the binary logarithm (log base 2) of the given value/ppstronga/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

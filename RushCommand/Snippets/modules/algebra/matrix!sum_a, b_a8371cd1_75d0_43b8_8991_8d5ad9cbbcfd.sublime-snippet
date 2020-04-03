@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.matrix!sum(${1:a},${2: b})]]></content>
+<tabTrigger>matrix!sum(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes two matrices and calculates their sum/ppstronga/strong: Array of numbers representing a 2D matrix/ppstrongb/strong: Array of numbers representing a 2D matrix/ppstrongreturns/strong: the sum of the two matrices/p</description>
+</snippet>

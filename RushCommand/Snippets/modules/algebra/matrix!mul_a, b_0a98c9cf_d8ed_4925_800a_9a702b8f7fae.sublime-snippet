@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.matrix!mul(${1:a},${2: b})]]></content>
+<tabTrigger>matrix!mul(a, b)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes two matrices and calculates their product/ppstronga/strong: Array of numbers representing a 2D matrix/ppstrongb/strong: Array of numbers representing a 2D matrix/ppstrongreturns/strong: the product of the two matrices/p</description>
+</snippet>

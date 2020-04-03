@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+RList.euload(${1:path})]]></content>
+<tabTrigger>euload(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns the representation of an RList file after applying inherits.
+This is equivalent to calling RList.euprocess(RList.load(path))./ppstrongpath/strong: String path to RList file/ppstrongreturns/strong: Dictionarystring any="" representing the root of the RList file/string/p</description>
+</snippet>

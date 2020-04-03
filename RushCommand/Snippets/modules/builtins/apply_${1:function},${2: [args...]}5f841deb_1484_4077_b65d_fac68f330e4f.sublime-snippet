@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+apply(${1:function},${2: [args...]})]]></content>
+<tabTrigger>apply(${1:function},${2: [args...]}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function will apply the array argument i.e code[args...]/code to the codefunction/code./ppstrongfunction/strong: A pointer to a function/ppstrongargs/strong: An array containing args/ppstrongreturns/strong: Any output from calling the function/p</description>
+</snippet>

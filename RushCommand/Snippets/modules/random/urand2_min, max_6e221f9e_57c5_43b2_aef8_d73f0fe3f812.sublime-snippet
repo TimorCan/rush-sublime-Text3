@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.urand2(${1:min},${2: max})]]></content>
+<tabTrigger>urand2(min, max)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a uniform distribution that is in the open interval (min max)./ppstrongmin/strong: Minimum value number/ppstrongmax/strong: Maximum value number/ppstrongreturns/strong: Random number/p</description>
+</snippet>

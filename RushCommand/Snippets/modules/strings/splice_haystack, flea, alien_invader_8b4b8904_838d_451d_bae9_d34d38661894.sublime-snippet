@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Strings.splice(${1:haystack},${2: flea},${3: alien_invader})]]></content>
+<tabTrigger>splice(haystack, flea, alien_invader)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSplices the string codealien_invader/code in place of the string codeflea/code for all occurrences of codeflea/code in codehaystack/code./ppstronghaystack/strong: String to be tinkered with/ppstrongflea/strong: String to be replaced with codealien_invader/code in the string codehaystack/code/ppstrongalien_invader/strong: String to replace codeflea/code with in the string codehaystack/code/ppFor the functions below what is considered a letter or digit or blank depends on the locale being used; In the default "C" locale what constitutes a letter is only what returns true by either isupper or islower in the C funtions in ctype.h. If you are using a locale different than the "C" locale behavior may be different for the examples given below./p</description>
+</snippet>

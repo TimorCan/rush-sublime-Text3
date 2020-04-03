@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.interpolate(${1:xvalues},${2: yvalues},${3: options})]]></content>
+<tabTrigger>interpolate(xvalues, yvalues, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pDefault method is Lagrange./ppstrongxvalues/strong: Array of numbers representing the x vector/ppstrongyvalues/strong: Array of numbers representing the y vector/ppstrongoptions/strong: A dictionary of options for interpolation/ppstrongInterpolation Options/strong/ppstrongreturns/strong: callable function/p</description>
+</snippet>

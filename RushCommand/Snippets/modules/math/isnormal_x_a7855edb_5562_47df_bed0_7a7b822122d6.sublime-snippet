@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.isnormal(${1:x})]]></content>
+<tabTrigger>isnormal(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function determines whether x normal (not zero infinite or NaN)/ppstrongx/strong: Number/ppstrongreturns/strong: Bool/p</description>
+</snippet>

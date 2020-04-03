@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.execute_test(${1:name},${2: prependNames},${3: function},${4: args...})]]></content>
+<tabTrigger>execute_test(name, prependNames, function, args...)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>execute_test(name, prependNames, function, args...)</description>
+</snippet>

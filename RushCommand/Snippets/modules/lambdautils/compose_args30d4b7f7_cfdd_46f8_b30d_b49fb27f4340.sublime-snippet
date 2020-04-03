@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+LambdaUtils.compose(${1:args...})]]></content>
+<tabTrigger>compose(args</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function can create a function that is a composition of the passed in args (args must be either function pointers arrays or dictionaries)./ppstrongargs/strong: Mix of function pointers dictionaries or arrays/ppstrongreturns/strong: Function that is a composition of the functions arrays and dictionaries. Ex: codef(g(z(x)))/code/p</description>
+</snippet>

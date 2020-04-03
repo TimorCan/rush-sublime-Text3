@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.cos(${1:x})]]></content>
+<tabTrigger>cos(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the cosine of x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Log.info(${1:args...})]]></content>
+<tabTrigger>Log.info(args...)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Log.info(args...)</description>
+</snippet>

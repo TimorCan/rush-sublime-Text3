@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.log10(${1:x})]]></content>
+<tabTrigger>log10(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the base-10 logarithm of x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

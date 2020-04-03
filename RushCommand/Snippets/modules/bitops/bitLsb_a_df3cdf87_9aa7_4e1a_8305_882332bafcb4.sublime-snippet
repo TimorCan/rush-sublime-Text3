@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Bitops.bitLsb(${1:a})]]></content>
+<tabTrigger>bitLsb(a)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the bitwise least significant byte codea &amp; ~(a - 1)/code/ppstronga/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Unit.user_info]]></content>
+<tabTrigger>Unit.user_info</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Unit.user_info</description>
+</snippet>

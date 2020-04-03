@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.erfc(${1:x})]]></content>
+<tabTrigger>erfc(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the complementary error function value for x/ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

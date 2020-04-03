@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+reshape(${1:array},${2: dimensions...})]]></content>
+<tabTrigger>reshape(${1:array},${2: dimensions...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a reshaped array into the matrix specified by dimensions. For example if you call codereshape(a 1 2 3)/code it will attempt to create a code1x2x3/code matrix from the given array./ppThis function will raise an exception if there are not enough elements in array to satisfy the dimensions given./ppstrongarray/strong: Array to reshaped/ppstrongdimensions/strong: Numbers/ppstrongreturns/strong: Arrayany/any/p</description>
+</snippet>

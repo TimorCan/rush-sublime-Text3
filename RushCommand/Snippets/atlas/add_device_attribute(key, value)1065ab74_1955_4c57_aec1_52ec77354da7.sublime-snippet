@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.add_device_attribute(${1:key},${2: value})]]></content>
+<tabTrigger>add_device_attribute(key, value)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>add_device_attribute(key, value)</description>
+</snippet>

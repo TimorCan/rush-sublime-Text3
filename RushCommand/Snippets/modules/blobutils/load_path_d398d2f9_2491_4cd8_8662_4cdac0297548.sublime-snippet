@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+BlobUtils.load(${1:path})]]></content>
+<tabTrigger>load(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pLoads blob data from a given filepath/ppstrongpath/strong: Path to blob file written by codeBlobUtils.save()/code/ppstrongreturns/strong: Rush blob data to be decoded by codeBlobUtils.blob2data()/code/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+lookup(${1:string})]]></content>
+<tabTrigger>lookup(${1:string}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function will lookup a string representing an symbol./ppstrongstring/strong: String representing symbol/ppstrongreturns/strong: Any/p</description>
+</snippet>

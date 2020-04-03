@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isContext(${1:object})]]></content>
+<tabTrigger>isContext(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is a context. A context is a special object in which symbols are mapped to values much like a Dictionary. It is used internally in the Rush virtual machine to represent modules (like Builtins Algebra etc)./ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

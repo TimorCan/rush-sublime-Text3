@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Atlas.Exceptions.InvalidLimit]]></content>
+<tabTrigger>Exceptions.InvalidLimit</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Exceptions.InvalidLimit</description>
+</snippet>

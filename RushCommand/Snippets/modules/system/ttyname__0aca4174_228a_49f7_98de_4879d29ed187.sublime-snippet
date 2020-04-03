@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.ttyname(${1:})]]></content>
+<tabTrigger>ttyname()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the name of the tty if connected/ppstrongreturns/strong: String name of the connected tty nil if none/p</description>
+</snippet>

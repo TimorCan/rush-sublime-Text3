@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+sort(${1:array},${2: sort_func})]]></content>
+<tabTrigger>sort(${1:array},${2: sort_func}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function will sort an array. If codesort_func/code is not passed in the codearray/code contents are assumed to be numbers and the codearray/code is sorted from smallest to largest number./ppstrongarray/strong: Array representing objects to be sorted/ppstrongsort_func/strong: Optional sort function. This should be a binary function that accepts two elements in the range as arguments and returns a boolean value. The value returned indicates whether the element passed as first argument is considered to go before the second./ppstrongreturns/strong: Sorted array/p</description>
+</snippet>

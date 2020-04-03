@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.nearbyint(${1:x})]]></content>
+<tabTrigger>nearbyint(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function rounds x to the nearest integral value using the currently set rounding strategy. Possible rounding strategies are DOWN UP NEAREST TOWARD_ZERO. Normally this is NEAREST./ppstrongx/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

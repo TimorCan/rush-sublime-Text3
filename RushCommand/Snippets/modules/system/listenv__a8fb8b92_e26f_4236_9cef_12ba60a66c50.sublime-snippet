@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.listenv(${1:})]]></content>
+<tabTrigger>listenv()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns all the environment variables/ppstrongreturns/strong: Dictionarystring string="" of environment variables/string/p</description>
+</snippet>

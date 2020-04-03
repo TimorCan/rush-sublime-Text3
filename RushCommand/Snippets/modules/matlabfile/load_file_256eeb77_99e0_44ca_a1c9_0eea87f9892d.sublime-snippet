@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+MatlabFile.load(${1:file})]]></content>
+<tabTrigger>load(file)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pstrongfile/strong: Path to the .mat file to be loaded/ppstrongreturns/strong: Rush dictionary/p</description>
+</snippet>

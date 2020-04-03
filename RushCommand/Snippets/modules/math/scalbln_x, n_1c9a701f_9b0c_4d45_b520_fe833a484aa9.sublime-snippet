@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Math.scalbln(${1:x},${2: n})]]></content>
+<tabTrigger>scalbln(x, n)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates x * FLT_RADIX^n.
+This is identical to Math.scalbn/ppstrongx/strong: Number/ppstrongn/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

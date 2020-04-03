@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.setenv(${1:key},${2: value})]]></content>
+<tabTrigger>setenv(key, value)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pSets an environment variable/ppstrongkey/strong: String representing environment variable key/ppstrongvalue/strong: String representing the value of the environment variable/p</description>
+</snippet>

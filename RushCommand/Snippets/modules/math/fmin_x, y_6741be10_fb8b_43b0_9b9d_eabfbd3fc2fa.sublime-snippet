@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.fmin(${1:x},${2: y})]]></content>
+<tabTrigger>fmin(x, y)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns the smaller of x or y/ppstrongx/strong: Number/ppstrongy/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

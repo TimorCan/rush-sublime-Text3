@@ -1,3 +1,5 @@
 [
-    { "keys": ["command+r"], "command": "rush"}
+    { "keys": ["command+r"], "command": "rush"},
+    { "keys": ["command+t"], "command": "add_date_time_stamp"},
+    { "keys": ["command+w"], "command": "user_name"}
 ]

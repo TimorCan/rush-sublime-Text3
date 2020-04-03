@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.remainder(${1:numerator},${2: denominator})]]></content>
+<tabTrigger>remainder(numerator, denominator)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function calculates the a href="https://en.wikipedia.org/wiki/IEEE_754-1985#Standard_operations"IEEE remainder/a of codenumerator / denominator/code/ppstrongnumerator/strong: Number/ppstrongdenominator/strong: Number/ppstrongreturns/strong: Number/p</description>
+</snippet>

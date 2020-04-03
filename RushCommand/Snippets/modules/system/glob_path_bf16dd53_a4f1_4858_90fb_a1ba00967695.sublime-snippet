@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.glob(${1:path})]]></content>
+<tabTrigger>glob(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pExpands codepath/code based on the rules defined for shell pattern and file name matching./ppstrongreturns/strong: Array of strings representing matched paths if there are matches. If not the pattern is returned./p</description>
+</snippet>

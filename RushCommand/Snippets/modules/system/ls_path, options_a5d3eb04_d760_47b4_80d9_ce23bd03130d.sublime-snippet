@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.ls(${1:path},${2: options})]]></content>
+<tabTrigger>ls(path, options)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the names of all items in the directory at codepath/code. No shell expansion is applied. Look at codeSystem.glob/code and codeSystem.shexp/code for shell expansion./ppstrongpath/strong: String/ppstrongoptions/strong: Dictionary declaring boolean options:/ppstrongreturns/strong: Arraystring/string/p</description>
+</snippet>

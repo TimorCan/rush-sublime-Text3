@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+cprint(${1:separator},${2: args...})]]></content>
+<tabTrigger>cprint(${1:separator},${2: args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function is like print except that you can specify the spearator between all arguments. Separator can be of any type and will be converted into a string./ppIf you pass a no argument function to separator then it will be called and the return value will be used as a separator./ppIf you pass a two argument function then it will be used to calculate each separator. Arg 1 will be the first item and arg 2 will be the next. This function will be continually called until all arguments are used./ppstrongseparator/strong: Any/ppstrongargs/strong: Any/p</description>
+</snippet>

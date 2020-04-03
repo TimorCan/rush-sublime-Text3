@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.shexp(${1:path})]]></content>
+<tabTrigger>shexp(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pExpands the codepath/code string based on environment variables and code~/code expansion./p</description>
+</snippet>

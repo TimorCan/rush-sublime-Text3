@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Math.isfinite(${1:x})]]></content>
+<tabTrigger>isfinite(x)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function determines whether x is a finite number (not NaN or infinite)./ppstrongx/strong: Number/ppstrongreturns/strong: Bool/p</description>
+</snippet>

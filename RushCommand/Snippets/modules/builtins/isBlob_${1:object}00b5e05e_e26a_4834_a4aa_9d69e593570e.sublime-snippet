@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isBlob(${1:object})]]></content>
+<tabTrigger>isBlob(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is a Blob. A Blob represents raw byte data like the contents of a file./ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>

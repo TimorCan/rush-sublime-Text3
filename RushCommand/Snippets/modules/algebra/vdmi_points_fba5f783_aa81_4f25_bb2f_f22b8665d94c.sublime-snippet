@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Algebra.vdmi(${1:points})]]></content>
+<tabTrigger>vdmi(points)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function takes a vector and calculates the inverse a href="https://en.wikipedia.org/wiki/Vandermonde_matrix"Vandermonde matrix/a from it/ppstrongpoints/strong: Array of numbers representing a vector/ppstrongreturns/strong: Inverse Vandermonde matrix of this vector/p</description>
+</snippet>

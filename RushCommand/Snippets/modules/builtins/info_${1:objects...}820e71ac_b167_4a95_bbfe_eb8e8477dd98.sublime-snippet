@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+info(${1:objects...})]]></content>
+<tabTrigger>info(${1:objects...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns an array of objects found inside the given objects. If no arguments are passed it returns all objects defined in the global namespace. If a context (i.e. codeBuiltins/code) is passed then it returns an array of all the top level definitions inside. If a dictionary is passed then it returns an array of all the keys./ppstrongobjects/strong: Context or Dictionary/ppstrongreturns/strong: Arrayany/any/p</description>
+</snippet>

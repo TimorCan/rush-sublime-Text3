@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+println(${1:args...})]]></content>
+<tabTrigger>println(${1:args...}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function is like codeprint/code but adds a newline at the end./ppstrongargs/strong: Any/p</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+JSON.load(${1:path})]]></content>
+<tabTrigger>load(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the JSON file contents/ppstrongpath/strong: String path to JSON file/ppstrongreturns/strong: Dictionarystring any="" representing the root of the JSON file/string/p</description>
+</snippet>

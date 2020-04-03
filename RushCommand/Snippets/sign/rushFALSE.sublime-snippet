@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+:FALSE:]]></content>
+<tabTrigger>False</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>Boolean false</description>
+</snippet>

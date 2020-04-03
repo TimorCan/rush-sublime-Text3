@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.filestatlist(${1:path})]]></content>
+<tabTrigger>filestatlist(path)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

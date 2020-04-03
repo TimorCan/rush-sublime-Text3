@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+numerify(${1:object})]]></content>
+<tabTrigger>numerify(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function attempts to turn object into a number. For string objects it first tries to convert the whole string to an integer (see codeman strtoll/code for exact details) and if that fails tries to convert to a floating point (see codeman strtold/code). If both these methods fail it throws an exception./ppstrongobject/strong: Any/ppstrongreturns/strong: Number/p</description>
+</snippet>

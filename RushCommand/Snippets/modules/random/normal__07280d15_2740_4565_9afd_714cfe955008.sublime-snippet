@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.normal(${1:})]]></content>
+<tabTrigger>normal()</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description></description>
+</snippet>

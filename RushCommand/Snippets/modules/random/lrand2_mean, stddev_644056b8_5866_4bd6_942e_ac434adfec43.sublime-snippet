@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Random.lrand2(${1:mean},${2: stddev})]]></content>
+<tabTrigger>lrand2(mean, stddev)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function returns a random number using a log normal distribution with the given mean (μ) and standard deviation (𝜎)./ppstrongmean/strong: Mean (μ)/ppstrongstddev/strong: Standard deviation (𝜎)/ppstrongreturns/strong: Random number/p</description>
+</snippet>

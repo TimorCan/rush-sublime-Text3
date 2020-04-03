@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+System.getenv(${1:key})]]></content>
+<tabTrigger>getenv(key)</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pReturns the value of key in the environment/ppstrongkey/strong: String representing environment variable/ppstrongreturns/strong: String representing the value of the environment variable/p</description>
+</snippet>

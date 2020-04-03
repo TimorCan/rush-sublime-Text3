@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+isDictionary(${1:object})]]></content>
+<tabTrigger>isDictionary(${1:object}</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>pThis function checks if the object is a dictionary/ppstrongobject/strong: Any/ppstrongreturns/strong: Bool/p</description>
+</snippet>
