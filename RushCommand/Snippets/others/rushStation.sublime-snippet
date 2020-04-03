@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 # ============================
-# @Author:   ${1:cmd+x}
+# @Author:   ${1:cmd+w}
 # @Version:  1.0 
 # @DateTime: ${2:cmd+t}
 # ============================
