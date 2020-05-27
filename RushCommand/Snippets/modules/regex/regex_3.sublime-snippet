@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Regex.groups(${1:inputString}, ${2:pattern}, ${3:options})]]></content>
+<tabTrigger>regexgroups</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>返回应用于inputString的正则表达式模式的捕获组</description>
+</snippet>

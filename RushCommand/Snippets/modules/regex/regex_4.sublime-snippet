@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Regex.replace(${1:inputString}, ${2:pattern}, ${3:replaceString}, ${4:options})]]></content>
+<tabTrigger>regexreplace</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>返回所有匹配项替换为replaceString的inputString</description>
+</snippet>

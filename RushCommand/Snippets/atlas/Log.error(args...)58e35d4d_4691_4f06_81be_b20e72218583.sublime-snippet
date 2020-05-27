@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Atlas.Log.error(${1:args...})]]></content>
-<tabTrigger>Log.error(args...)</tabTrigger>
+<tabTrigger>logerror(args...)</tabTrigger>
 <scope>source.python,source.rush,source.ruby</scope>
 <description>Log.error(args...)</description>
 </snippet>

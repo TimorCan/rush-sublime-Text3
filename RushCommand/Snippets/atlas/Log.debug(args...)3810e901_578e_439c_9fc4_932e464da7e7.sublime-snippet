@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Atlas.Log.debug(${1:args...})]]></content>
-<tabTrigger>Log.debug(args...)</tabTrigger>
+<tabTrigger>logdebug(args...)</tabTrigger>
 <scope>source.python,source.rush,source.ruby</scope>
 <description>Log.debug(args...)</description>
 </snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Regex.matches(${1:inputString}, ${2:pattern}, ${3:options})]]></content>
+<tabTrigger>regexmatches</tabTrigger>
+<scope>source.python,source.rush,source.ruby</scope>
+<description>返回应用于inputString的正则表达式模式的匹配项</description>
+</snippet>

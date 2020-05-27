@@ -1,0 +1,5 @@
+{
+    "cmd": ["/AppleInternal/Library/Frameworks/Rush.framework/bin/rush", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.rush"
+}
